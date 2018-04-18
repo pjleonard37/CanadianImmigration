@@ -25,7 +25,7 @@ var area = d3.area()
     .y1(function(d) { return y(d[1]); });
 
 svg.selectAll("path")
-  .data(layers0)
+  .data(layer)
   .enter().append("path")
     .attr("d", area)
     .attr("fill", function() { return z(Math.random()); });
