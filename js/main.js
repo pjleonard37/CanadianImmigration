@@ -3,9 +3,7 @@ var n = 20, // number of layers
     k = 10; // number of bumps per layer
 
 var stack = d3.stack().keys(d3.range(n)).offset(d3.stackOffsetWiggle),
-    layers0 = stack(d3.transpose(d3.range(n).map(function() { return bumps(m, k); }))),
-    layers1 = stack(d3.transpose(d3.range(n).map(function() { return bumps(m, k); }))),
-    layers = layers0.concat(layers1);
+    layer = stack(d3.transpose(d3.range(n).map(function() { return bumps(m, k); })));
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -16,7 +14,7 @@ var x = d3.scaleLinear()
     .range([0, width]);
 
 var y = d3.scaleLinear()
-    .domain([d3.min(layers, stackMin), d3.max(layers, stackMax)])
+    .domain([d3.min(layer, stackMin), d3.max(layer, stackMax)])
     .range([height, 0]);
 
 var z = d3.interpolateCool;
@@ -38,15 +36,6 @@ function stackMax(layer) {
 
 function stackMin(layer) {
   return d3.min(layer, function(d) { return d[0]; });
-}
-
-function transition() {
-  var t;
-  d3.selectAll("path")
-    .data((t = layers1, layers1 = layers0, layers0 = t))
-    .transition()
-      .duration(2500)
-      .attr("d", area);
 }
 
 // Inspired by Lee Byron’s test data generator.
