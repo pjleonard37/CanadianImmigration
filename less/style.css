@@ -1,0 +1,18 @@
+body {
+  background-color: #eeeeee;
+  font: Arial, Helvetica, sans-serif;
+}
+#header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+#body {
+  line-height: 30px;
+  background-color: #eeeeee;
+  height: 650px;
+  width: 15%;
+  float: left;
+  padding: 5px;
+}
