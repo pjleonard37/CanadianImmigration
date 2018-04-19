@@ -1,9 +1,14 @@
 var n = 20, // number of layers
     m = 200, // number of samples per layer
     k = 10; // number of bumps per layer
+csv = "~/ModifiedData.csv"
+
+d3.csv(csv, function(data){
+    console.log(data);
+});
 
 var stack = d3.stack().keys(d3.range(n)).offset(d3.stackOffsetWiggle),
-    layer = stack(d3.transpose(d3.range(n).map(function() { return bumps(m, k); })));
+    layer = stack(d3.transpose(d3.range(n).map(csv)));
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
