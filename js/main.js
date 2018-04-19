@@ -1,7 +1,7 @@
 var n = 20, // number of layers
     m = 200, // number of samples per layer
     k = 10; // number of bumps per layer
-csv = "~/ModifiedData.csv"
+csv = "ModifiedData.csv"
 
 d3.csv(csv, function(data){
     console.log(data);
