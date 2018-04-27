@@ -1,14 +1,17 @@
 var n = 20, // number of layers
     m = 200, // number of samples per layer
     k = 10; // number of bumps per layer
-csv = "ModifiedData.csv"
+csv = "Test.csv"
 
 d3.csv(csv, function(data){
     console.log(data);
+    data.forEach(function(d) {
+      d.date = format.parse(d.Ref_Date);
+      d.value = +parseInt(d.Value);
+    });
 });
 
-var stack = d3.stack().keys(d3.range(n)).offset(d3.stackOffsetWiggle),
-    layer = stack(d3.transpose(d3.range(n).map(csv)));
+var layers = stack(nest.entries(data));
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
