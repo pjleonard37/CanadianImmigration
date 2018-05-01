@@ -10,7 +10,7 @@ d3.csv(csv, function(error, data){
     console.error('Error with data.');
     throw error;
   }
-  console.log(data);
+
   data.forEach(function(d) {
     Object.keys(d).forEach(function(key) {
       if (key != "Country") {
@@ -20,23 +20,26 @@ d3.csv(csv, function(error, data){
     });
   });
 
+
   var n = data.length - 1, // number of countries
       m = data.columns.length - 1, // number of observations
       i = -1;
+  var firstyear = Object.keys(data[0])[0];
+  var lastyear = Object.keys(data[0])[m-1];
 
   var stack = d3.stack().keys(d3.range(n)).offset(d3.stackOffsetWiggle),
-      layers0 = stack(d3.transpose(d3.range(n).map(function() { return layerBuilder(n, data); })));
-
+      layers = stack(d3.transpose(d3.range(n).map(function() { return layerBuilder(n, data); })));
   var svg = d3.select("svg"),
-      width = +svg.attr("width"),
-      height = +svg.attr("height");
+      margin = {top: 30, right: 30, bottom: 30, left: 30}
+      width = +svg.attr("width") - margin.left - margin.right,
+      height = +svg.attr("height") - margin.top - margin.bottom;
 
   var x = d3.scaleLinear()
       .domain([0, m - 1])
       .range([0, width])
 
   var y = d3.scaleLinear()
-      .domain([d3.min(layers0, stackMin), d3.max(layers0, stackMax)])
+      .domain([d3.min(layers, stackMin), d3.max(layers, stackMax)])
       .range([height, 0]);
 
   var z = d3.interpolateCool;
@@ -47,7 +50,7 @@ d3.csv(csv, function(error, data){
       .y1(function(d) { return y(d[1]); });
 
   svg.selectAll("path")
-    .data(layers0)
+    .data(layers)
     .enter().append("path")
       .attr("d", area)
       .attr("class", "layer")
@@ -72,12 +75,12 @@ d3.csv(csv, function(error, data){
     .style("top", (d3.event.pageY - 28) + "px");
   })
 
-  function stackMax(layers0) {
-    return d3.max(layers0, function(d) { return d[1]; });
+  function stackMax(layers) {
+    return d3.max(layers, function(d) { return d[1]; });
   }
 
-  function stackMin(layers0) {
-    return d3.min(layers0, function(d) { return d[0]; });
+  function stackMin(layers) {
+    return d3.min(layers, function(d) { return d[0]; });
   }
 
   function layerBuilder(n, data) {
@@ -89,7 +92,7 @@ d3.csv(csv, function(error, data){
 
   var xAxis = d3.axisBottom()
       .scale(x)
-      .ticks(5);
+      .ticks(10);
 
   var yAxis = d3.axisLeft()
       .scale(y)
