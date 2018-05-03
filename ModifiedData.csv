@@ -1,5 +1,5 @@
 Country,Year,Count
-All other countries,1955,2625
+All Other Countries,1955,2625
 Africa,1955,0
 Other Asia,1955,0
 India,1955,0
@@ -37,7 +37,7 @@ Other Asia,1956,0
 Australasia,1956,1924
 United States,1956,9777
 West Indies,1956,1058
-All other countries,1956,3007
+All Other Countries,1956,3007
 Africa,1956,0
 Other North America,1956,0
 South America,1956,0
@@ -58,7 +58,7 @@ Other Asia,1957,0
 Australasia,1957,3345
 United States,1957,11008
 West Indies,1957,1162
-All other countries,1957,5867
+All Other Countries,1957,5867
 Africa,1957,0
 Other North America,1957,0
 South America,1957,0
@@ -79,7 +79,7 @@ Other Asia,1958,0
 Australasia,1958,2344
 United States,1958,10846
 West Indies,1958,1192
-All other countries,1958,3967
+All Other Countries,1958,3967
 Africa,1958,0
 Other North America,1958,0
 South America,1958,0
@@ -100,7 +100,7 @@ Other Asia,1959,0
 Australasia,1959,1512
 United States,1959,11338
 West Indies,1959,1196
-All other countries,1959,2974
+All Other Countries,1959,2974
 Africa,1959,0
 Other North America,1959,0
 South America,1959,0
@@ -121,7 +121,7 @@ Other Asia,1960,0
 Australasia,1960,1657
 United States,1960,11247
 West Indies,1960,1168
-All other countries,1960,3115
+All Other Countries,1960,3115
 Africa,1960,0
 Other North America,1960,0
 South America,1960,0
@@ -142,7 +142,7 @@ Other Asia,1961,0
 Australasia,1961,1432
 United States,1961,11516
 West Indies,1961,1126
-All other countries,1961,2791
+All Other Countries,1961,2791
 Africa,1961,0
 Other North America,1961,0
 South America,1961,0
@@ -163,7 +163,7 @@ Other Asia,1962,0
 Australasia,1962,1384
 United States,1962,11643
 West Indies,1962,1586
-All other countries,1962,3590
+All Other Countries,1962,3590
 Africa,1962,0
 Other North America,1962,0
 South America,1962,0
@@ -184,7 +184,7 @@ Other Asia,1963,0
 Australasia,1963,1692
 United States,1963,11736
 West Indies,1963,2397
-All other countries,1963,4518
+All Other Countries,1963,4518
 Africa,1963,0
 Other North America,1963,0
 South America,1963,0
@@ -205,7 +205,7 @@ Other Asia,1964,0
 Australasia,1964,2305
 United States,1964,12565
 West Indies,1964,2199
-All other countries,1964,6618
+All Other Countries,1964,6618
 Africa,1964,0
 Other North America,1964,0
 South America,1964,0
@@ -226,7 +226,7 @@ Other Asia,1965,0
 Australasia,1965,2711
 United States,1965,15143
 West Indies,1965,3095
-All other countries,1965,6309
+All Other Countries,1965,6309
 Africa,1965,0
 Other North America,1965,0
 South America,1965,0
@@ -247,7 +247,7 @@ Other Asia,1966,0
 Australasia,1966,4059
 United States,1966,17514
 West Indies,1966,3935
-All other countries,1966,7079
+All Other Countries,1966,7079
 Africa,1966,0
 Other North America,1966,0
 South America,1966,0
@@ -268,7 +268,7 @@ Other Asia,1967,0
 Australasia,1967,6179
 United States,1967,19038
 West Indies,1967,8403
-All other countries,1967,8518
+All Other Countries,1967,8518
 Africa,1967,0
 Other North America,1967,0
 South America,1967,0
@@ -289,7 +289,7 @@ Other Asia,1968,0
 Australasia,1968,4818
 United States,1968,20422
 West Indies,1968,7623
-All other countries,1968,8723
+All Other Countries,1968,8723
 Africa,1968,0
 Other North America,1968,0
 South America,1968,0
@@ -310,7 +310,7 @@ Other Asia,1969,0
 Australasia,1969,4414
 United States,1969,22785
 West Indies,1969,13093
-All other countries,1969,9557
+All Other Countries,1969,9557
 Africa,1969,0
 Other North America,1969,0
 South America,1969,0
@@ -331,7 +331,7 @@ Other Asia,1970,0
 Australasia,1970,4388
 United States,1970,24424
 West Indies,1970,12456
-All other countries,1970,9666
+All Other Countries,1970,9666
 Africa,1970,0
 Other North America,1970,0
 South America,1970,0
@@ -352,7 +352,7 @@ Other Asia,1971,0
 Australasia,1971,2906
 United States,1971,24366
 West Indies,1971,10843
-All other countries,1971,9583
+All Other Countries,1971,9583
 Africa,1971,0
 Other North America,1971,0
 South America,1971,0
@@ -373,7 +373,7 @@ Other Asia,1972,0
 Australasia,1972,2148
 United States,1972,22618
 West Indies,1972,8234
-All other countries,1972,14388
+All Other Countries,1972,14388
 Africa,1972,0
 Other North America,1972,0
 South America,1972,0
@@ -394,7 +394,7 @@ Other Asia,1973,0
 Australasia,1973,2671
 United States,1973,25242
 West Indies,1973,19281
-All other countries,1973,21930
+All Other Countries,1973,21930
 Africa,1973,0
 Other North America,1973,0
 South America,1973,0
@@ -415,7 +415,7 @@ Other Asia,1974,0
 Australasia,1974,2594
 United States,1974,26541
 West Indies,1974,23670
-All other countries,1974,26400
+All Other Countries,1974,26400
 Africa,1974,0
 Other North America,1974,0
 South America,1974,0
@@ -436,7 +436,7 @@ Other Asia,1975,0
 Australasia,1975,2174
 United States,1975,20155
 West Indies,1975,17800
-All other countries,1975,27472
+All Other Countries,1975,27472
 Africa,1975,0
 Other North America,1975,0
 South America,1975,0
@@ -457,7 +457,7 @@ Other Asia,1976,0
 Australasia,1976,1892
 United States,1976,17384
 West Indies,1976,14723
-All other countries,1976,21311
+All Other Countries,1976,21311
 Africa,1976,0
 Other North America,1976,0
 South America,1976,0
@@ -478,7 +478,7 @@ Other Asia,1977,0
 Australasia,1977,1547
 United States,1977,12918
 West Indies,1977,11789
-All other countries,1977,16564
+All Other Countries,1977,16564
 Africa,1977,0
 Other North America,1977,0
 South America,1977,0
@@ -499,7 +499,7 @@ Other Asia,1978,0
 Australasia,1978,1237
 United States,1978,9949
 West Indies,1978,8222
-All other countries,1978,12814
+All Other Countries,1978,12814
 Africa,1978,0
 Other North America,1978,0
 South America,1978,0
@@ -520,7 +520,7 @@ Other Asia,1979,0
 Australasia,1979,1443
 United States,1979,9948
 West Indies,1979,6621
-All other countries,1979,11400
+All Other Countries,1979,11400
 Africa,1979,0
 Other North America,1979,0
 South America,1979,0
@@ -541,7 +541,7 @@ Other Asia,1980,0
 Australasia,1980,1559
 United States,1980,9953
 West Indies,1980,7273
-All other countries,1980,11642
+All Other Countries,1980,11642
 Africa,1980,0
 Other North America,1980,0
 South America,1980,0
@@ -562,7 +562,7 @@ Other Asia,1981,0
 Australasia,1981,1319
 United States,1981,10573
 West Indies,1981,8579
-All other countries,1981,13063
+All Other Countries,1981,13063
 Africa,1981,0
 Other North America,1981,0
 South America,1981,0
@@ -583,7 +583,7 @@ Other Asia,1982,16396
 Australasia,1982,938
 United States,1982,9375
 West Indies,1982,8688
-All other countries,1982,1300
+All Other Countries,1982,1300
 Africa,1982,4520
 Other North America,1982,1654
 South America,1982,6883
@@ -604,7 +604,7 @@ Other Asia,1983,12281
 Australasia,1983,478
 United States,1983,7399
 West Indies,1983,7235
-All other countries,1983,736
+All Other Countries,1983,736
 Africa,1983,3669
 Other North America,1983,3664
 South America,1983,4829
@@ -625,7 +625,7 @@ Other Asia,1984,14081
 Australasia,1984,538
 United States,1984,6949
 West Indies,1984,5652
-All other countries,1984,618
+All Other Countries,1984,618
 Africa,1984,3566
 Other North America,1984,4095
 South America,1984,4102
@@ -646,7 +646,7 @@ Other Asia,1985,13715
 Australasia,1985,506
 United States,1985,6672
 West Indies,1985,6134
-All other countries,1985,622
+All Other Countries,1985,622
 Africa,1985,3546
 Other North America,1985,5018
 South America,1985,4358
@@ -667,7 +667,7 @@ Other Asia,1986,18067
 Australasia,1986,503
 United States,1986,7283
 West Indies,1986,8886
-All other countries,1986,725
+All Other Countries,1986,725
 Africa,1986,4776
 Other North America,1986,6084
 South America,1986,6699
@@ -688,7 +688,7 @@ Other Asia,1987,28452
 Australasia,1987,753
 United States,1987,7963
 West Indies,1987,11223
-All other countries,1987,1075
+All Other Countries,1987,1075
 Africa,1987,8495
 Other North America,1987,6871
 South America,1987,10798
@@ -709,7 +709,7 @@ Other Asia,1988,32860
 Australasia,1988,744
 United States,1988,6521
 West Indies,1988,9415
-All other countries,1988,1074
+All Other Countries,1988,1074
 Africa,1988,9357
 Other North America,1988,5657
 South America,1988,7237
@@ -730,7 +730,7 @@ Other Asia,1989,43608
 Australasia,1989,892
 United States,1989,6913
 West Indies,1989,10881
-All other countries,1989,1144
+All Other Countries,1989,1144
 Africa,1989,12169
 Other North America,1989,5856
 South America,1989,8663
@@ -751,7 +751,7 @@ Other Asia,1990,51290
 Australasia,1990,999
 United States,1990,6147
 West Indies,1990,11804
-All other countries,1990,1674
+All Other Countries,1990,1674
 Africa,1990,13580
 Other North America,1990,7876
 South America,1990,8986
@@ -772,7 +772,7 @@ Other Asia,1991,64037
 Australasia,1991,962
 United States,1991,6664
 West Indies,1991,13044
-All other countries,1991,2206
+All Other Countries,1991,2206
 Africa,1991,16224
 Other North America,1991,13524
 South America,1991,10674
@@ -793,7 +793,7 @@ Other Asia,1992,67265
 Australasia,1992,1200
 United States,1992,7596
 West Indies,1992,15069
-All other countries,1992,2488
+All Other Countries,1992,2488
 Africa,1992,19792
 Other North America,1992,12626
 South America,1992,10471
@@ -814,7 +814,7 @@ Other Asia,1993,62427
 Australasia,1993,1324
 United States,1993,8040
 West Indies,1993,16627
-All other countries,1993,1770
+All Other Countries,1993,1770
 Africa,1993,16984
 Other North America,1993,7766
 South America,1993,9616
@@ -835,7 +835,7 @@ Other Asia,1994,54994
 Australasia,1994,1112
 United States,1994,6248
 West Indies,1994,10006
-All other countries,1994,1198
+All Other Countries,1994,1198
 Africa,1994,13737
 Other North America,1994,3513
 South America,1994,7936
@@ -856,7 +856,7 @@ Other Asia,1995,62178
 Australasia,1995,1055
 United States,1995,5173
 West Indies,1995,10067
-All other countries,1995,834
+All Other Countries,1995,834
 Africa,1995,14624
 Other North America,1995,2840
 South America,1995,7545
@@ -877,7 +877,7 @@ Other Asia,1996,77452
 Australasia,1996,1228
 United States,1996,5846
 West Indies,1996,9334
-All other countries,1996,837
+All Other Countries,1996,837
 Africa,1996,14878
 Other North America,1996,3414
 South America,1996,6114
@@ -898,7 +898,7 @@ Other Asia,1997,84023
 Australasia,1997,1404
 United States,1997,5036
 West Indies,1997,8235
-All other countries,1997,658
+All Other Countries,1997,658
 Africa,1997,14524
 Other North America,1997,3506
 South America,1997,5689
@@ -919,7 +919,7 @@ Other Asia,1998,70566
 Australasia,1998,1060
 United States,1998,4800
 West Indies,1998,6357
-All other countries,1998,424
+All Other Countries,1998,424
 Africa,1998,13856
 Other North America,1998,2706
 South America,1998,4971
@@ -940,7 +940,7 @@ Other Asia,1999,83478
 Australasia,1999,849
 United States,1999,5547
 West Indies,1999,6760
-All other countries,1999,384
+All Other Countries,1999,384
 Africa,1999,15842
 Other North America,1999,2913
 South America,1999,5610
@@ -961,7 +961,7 @@ Other Asia,2000,101167
 Australasia,2000,931
 United States,2000,5833
 West Indies,2000,7158
-All other countries,2000,485
+All Other Countries,2000,485
 Africa,2000,20040
 Other North America,2000,3061
 South America,2000,6782
@@ -982,7 +982,7 @@ Other Asia,2001,112091
 Australasia,2001,1216
 United States,2001,5909
 West Indies,2001,8564
-All other countries,2001,856
+All Other Countries,2001,856
 Africa,2001,23438
 Other North America,2001,3139
 South America,2001,8510
@@ -1003,7 +1003,7 @@ Other Asia,2002,98633
 Australasia,2002,1199
 United States,2002,5294
 West Indies,2002,7598
-All other countries,2002,776
+All Other Countries,2002,776
 Africa,2002,22095
 Other North America,2002,3049
 South America,2002,8825
@@ -1024,7 +1024,7 @@ Other Asia,2003,94083
 Australasia,2003,1365
 United States,2003,6013
 West Indies,2003,6539
-All other countries,2003,693
+All Other Countries,2003,693
 Africa,2003,22513
 Other North America,2003,2740
 South America,2003,11070
@@ -1045,7 +1045,7 @@ Other Asia,2004,94433
 Australasia,2004,1404
 United States,2004,7507
 West Indies,2004,6617
-All other countries,2004,586
+All Other Countries,2004,586
 Africa,2004,26509
 Other North America,2004,3350
 South America,2004,12292
@@ -1066,7 +1066,7 @@ Other Asia,2005,107026
 Australasia,2005,1507
 United States,2005,9263
 West Indies,2005,6905
-All other countries,2005,417
+All Other Countries,2005,417
 Africa,2005,25535
 Other North America,2005,4020
 South America,2005,13720
@@ -1087,7 +1087,7 @@ Other Asia,2006,97473
 Australasia,2006,1348
 United States,2006,10943
 West Indies,2006,6740
-All other countries,2006,401
+All Other Countries,2006,401
 Africa,2006,27176
 Other North America,2006,4143
 South America,2006,13423
@@ -1108,7 +1108,7 @@ Other Asia,2007,85339
 Australasia,2007,1495
 United States,2007,10453
 West Indies,2007,7957
-All other countries,2007,435
+All Other Countries,2007,435
 Africa,2007,26078
 Other North America,2007,5044
 South America,2007,12899
@@ -1129,7 +1129,7 @@ Other Asia,2008,90523
 Australasia,2008,1639
 United States,2008,11230
 West Indies,2008,9070
-All other countries,2008,421
+All Other Countries,2008,421
 Africa,2008,26096
 Other North America,2008,4896
 South America,2008,12566
@@ -1150,7 +1150,7 @@ Other Asia,2009,85230
 Australasia,2009,1839
 United States,2009,9744
 West Indies,2009,8969
-All other countries,2009,345
+All Other Countries,2009,345
 Africa,2009,30333
 Other North America,2009,4852
 South America,2009,13011
@@ -1171,7 +1171,7 @@ Other Asia,2010,95323
 Australasia,2010,1754
 United States,2010,9263
 West Indies,2010,10486
-All other countries,2010,454
+All Other Countries,2010,454
 Africa,2010,35527
 Other North America,2010,5702
 South America,2010,12230
@@ -1192,7 +1192,7 @@ Other Asia,2011,84918
 Australasia,2011,1459
 United States,2011,8847
 West Indies,2011,11841
-All other countries,2011,370
+All Other Countries,2011,370
 Africa,2011,31303
 Other North America,2011,5520
 South America,2011,10145
@@ -1213,7 +1213,7 @@ Other Asia,2012,85686
 Australasia,2012,1753
 United States,2012,9436
 West Indies,2012,11856
-All other countries,2012,394
+All Other Countries,2012,394
 Africa,2012,34361
 Other North America,2012,5829
 South America,2012,9246
