@@ -1,25 +1,1219 @@
-Country,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012
-Total Europe,90771,145554,257411,102052,84300,82706,51937,53650,68896,82393,107816,147918,159491,120312,87976,75328,51833,51293,71883,88694,72898,50028,40716,30062,35813,41277,46362,46226,24370,20986,18868,22736,37547,40590,51972,52457,48478,45227,46776,38730,41300,40014,38664,38518,38979,42963,43297,38868,37569,41902,40906,37945,39005,40368,41888,40858,32310,35324
-Great Britain,30420,52619,114347,26003,19037,20384,12285,16055,25193,29959,40718,65065,64601,39434,33212,27620,16281,19133,28102,39748,36076,22190,18536,12251,14553,18976,21994,17101,6051,5416,4721,5528,9531,10418,9735,9092,8351,7793,7695,6338,6393,5837,4846,4047,4634,4825,5575,4929,5459,6346,6108,6856,8485,9750,10089,10263,7227,7277
-France,2869,3809,5869,2727,2153,2944,2330,2674,3569,4542,5225,7872,10122,8184,5549,4410,2966,2742,3586,4232,3891,3250,2761,1754,1953,1905,2092,2397,1656,1386,1401,1612,2290,2582,2875,2615,3235,3767,3994,3046,3890,3363,2848,3870,3923,4349,4428,3962,4127,5028,5430,4915,5528,6394,7314,6949,5878,8157
-Germany,17630,26061,28430,13888,10423,10774,6231,5548,6744,5992,8927,9263,11779,8966,5880,4193,2275,2025,2564,3619,3469,2680,2258,1471,1462,1648,2191,4432,2524,1734,1578,1405,1903,1691,2021,1636,1585,1487,1895,1975,2363,2538,2104,2064,2896,2371,1846,1624,2098,2387,2635,3030,2555,4063,4090,3197,2258,1894
-Netherlands,6759,7792,11934,7420,5243,5429,1787,1555,1728,2029,2619,3749,4401,3264,2494,1916,1301,1471,1898,2103,1448,1365,1250,1237,1581,1872,1800,1830,673,547,466,524,575,820,822,627,570,686,671,593,644,1052,723,675,911,879,815,686,662,826,929,892,630,841,797,803,629,530
-Greece,2856,4986,5460,5190,4867,4856,3766,3741,4759,4391,5642,7174,10650,7739,6937,6327,4769,4016,5833,5632,4062,2495,1962,1477,1232,1096,958,885,601,557,551,552,770,579,769,539,571,494,471,321,325,318,296,225,248,361,346,211,179,210,145,138,189,248,205,236,163,211
-Italy,19139,27939,27740,27043,25655,20681,14161,13641,14427,19297,26398,31625,30055,19774,10383,8533,5790,4608,5468,5226,5078,4548,3410,2977,2226,1744,2047,1508,828,843,650,716,1030,858,1034,925,703,637,698,628,635,685,532,429,512,481,527,446,401,432,344,421,425,547,583,631,573,613
-Portugal,1136,1697,4423,1938,4080,5023,2762,2928,4000,5309,5734,7930,9500,7738,7182,7902,9157,8737,13483,16333,8547,5412,3575,1897,4034,4237,1890,1390,821,859,910,1973,5974,4147,5400,5652,5348,2768,1575,802,842,727,711,462,348,393,481,319,283,323,291,405,399,653,611,609,506,524
-Other Europe,9962,20651,59208,17843,12842,12615,8615,7508,8476,10874,12553,15240,18383,25213,16339,14427,9294,8561,10949,11801,10327,8090,6964,6998,8771,9800,13393,8392,6108,5127,4969,5188,8437,10286,13373,14645,12241,15622,22875,21592,23901,23433,24895,25298,24207,27967,28111,25574,23281,25021,23818,20097,19636,16689,17215,17443,14417,15414
-Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8291,5106,4518,3618,5236,7034,9208,15947,16731,15877,11972,6904,3432,2306,2063,1708,1444,1298,1333,1168,1117,1079,1329,1206,1191,1158,1183,984,727,659,704
-Total Asia,3662,3537,3371,4450,5608,4218,2887,2733,3912,6526,11684,14238,21247,22076,23706,21451,22369,23325,43193,50566,47382,44091,31380,24029,46871,71793,48898,41749,36998,42091,38614,41650,67306,80938,93026,112902,121000,140385,147847,141916,129435,144397,138319,101492,113086,140178,155709,141345,132847,135657,159967,149527,133388,140961,141196,164408,146951,149693
-India,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7788,7060,5523,4029,6948,9688,10383,8797,10734,12953,12777,20525,17263,16263,21301,19592,15387,17463,26122,27903,28838,24594,25574,33147,30755,26060,24584,26173,30311,25016,29010
-Hong Kong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6552,6728,7727,7383,5901,16162,23225,19855,29554,22527,39230,36714,44271,31859,30006,22038,5718,1538,960,690,581,496,544,448,459,368,351,313,223,268,460
-Vietnam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5945,6467,10997,10409,6626,5665,6180,9402,9167,9028,7740,8331,6244,3944,2490,1787,1631,1397,1801,2097,2282,1686,1803,1821,3122,2549,1743,2145,1900,1686,1707
-Philippines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5070,4464,3764,3076,4108,7338,8289,11364,12155,12454,13376,19848,19142,15190,13148,10880,8187,9205,10128,12928,11011,11988,13303,17525,17718,19072,23760,27335,36651,35063,32830
-Other Asia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16396,12281,14081,13715,18067,28452,32860,43608,51290,64037,67265,62427,54994,62178,77452,84023,70566,83478,101167,112091,98633,94083,94433,107026,97473,85339,90523,85230,95323,84918,85686
-Australasia,1700,1924,3345,2344,1512,1657,1432,1384,1692,2305,2711,4059,6179,4818,4414,4388,2906,2148,2671,2594,2174,1892,1547,1237,1443,1559,1319,938,478,538,506,503,753,744,892,999,962,1200,1324,1112,1055,1228,1404,1060,849,931,1216,1199,1365,1404,1507,1348,1495,1639,1839,1754,1459,1753
-"Total United States, West Indies",11188,10835,12170,12038,12534,12415,12642,13229,14133,14764,18238,21449,27441,28045,35878,36880,35209,30852,44523,50211,37955,32106,24707,18171,16569,17225,19151,18061,14633,12603,12807,16170,19186,15937,17794,17950,19708,22667,24671,16253,15242,15179,13270,11157,12308,12989,14473,12892,12552,14124,16168,17683,18410,20300,18713,19749,20688,21292
-United States,10395,9777,11008,10846,11338,11247,11516,11643,11736,12565,15143,17514,19038,20422,22785,24424,24366,22618,25242,26541,20155,17384,12918,9949,9948,9953,10573,9375,7399,6949,6672,7283,7963,6521,6913,6147,6664,7596,8040,6248,5173,5846,5036,4800,5547,5833,5909,5294,6013,7507,9263,10943,10453,11230,9744,9263,8847,9436
-West Indies,793,1058,1162,1192,1196,1168,1126,1586,2397,2199,3095,3935,8403,7623,13093,12456,10843,8234,19281,23670,17800,14723,11789,8222,6621,7273,8579,8688,7235,5652,6134,8886,11223,9415,10881,11804,13044,15069,16627,10006,10067,9334,8235,6357,6760,7158,8564,7598,6539,6617,6905,6740,7957,9070,8969,10486,11841,11856
-All other countries,2625,3007,5867,3967,2974,3115,2791,3590,4518,6618,6309,7079,8518,8723,9557,9666,9583,14388,21930,26400,27472,21311,16564,12814,11400,11642,13063,1300,736,618,622,725,1075,1074,1144,1674,2206,2488,1770,1198,834,837,658,424,384,485,856,776,693,586,417,401,435,421,345,454,370,394
-Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4520,3669,3566,3546,4776,8495,9357,12169,13580,16224,19792,16984,13737,14624,14878,14524,13856,15842,20040,23438,22095,22513,26509,25535,27176,26078,26096,30333,35527,31303,34361
-Other North and Central America,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1654,3664,4095,5018,6084,6871,5657,5856,7876,13524,12626,7766,3513,2840,3414,3506,2706,2913,3061,3139,3049,2740,3350,4020,4143,5044,4896,4852,5702,5520,5829
-South America,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6883,4829,4102,4358,6699,10798,7237,8663,8986,10674,10471,9616,7936,7545,6114,5689,4971,5610,6782,8510,8825,11070,12292,13720,13423,12899,12566,13011,12230,10145,9246
+Country,Year,Count
+All other countries,1955,2625
+Africa,1955,0
+Other Asia,1955,0
+India,1955,0
+Hong Kong,1955,0
+Vietnam,1955,0
+Philippines,1955,0
+Australasia,1955,1700
+South America,1955,0
+Other North America,1955,0
+West Indies,1955,793
+United States,1955,10395
+Other Europe,1955,9962
+Greece,1955,2856
+Italy,1955,19139
+Portugal,1955,1136
+Poland,1955,0
+France,1955,2869
+Germany,1955,17630
+Netherlands,1955,6759
+Great Britain,1955,30420
+Great Britain,1956,52619
+France,1956,3809
+Germany,1956,26061
+Netherlands,1956,7792
+Greece,1956,4986
+Italy,1956,27939
+Portugal,1956,1697
+Other Europe,1956,20651
+Poland,1956,0
+India,1956,0
+Hong Kong,1956,0
+Vietnam,1956,0
+Philippines,1956,0
+Other Asia,1956,0
+Australasia,1956,1924
+United States,1956,9777
+West Indies,1956,1058
+All other countries,1956,3007
+Africa,1956,0
+Other North America,1956,0
+South America,1956,0
+Great Britain,1957,114347
+France,1957,5869
+Germany,1957,28430
+Netherlands,1957,11934
+Greece,1957,5460
+Italy,1957,27740
+Portugal,1957,4423
+Other Europe,1957,59208
+Poland,1957,0
+India,1957,0
+Hong Kong,1957,0
+Vietnam,1957,0
+Philippines,1957,0
+Other Asia,1957,0
+Australasia,1957,3345
+United States,1957,11008
+West Indies,1957,1162
+All other countries,1957,5867
+Africa,1957,0
+Other North America,1957,0
+South America,1957,0
+Great Britain,1958,26003
+France,1958,2727
+Germany,1958,13888
+Netherlands,1958,7420
+Greece,1958,5190
+Italy,1958,27043
+Portugal,1958,1938
+Other Europe,1958,17843
+Poland,1958,0
+India,1958,0
+Hong Kong,1958,0
+Vietnam,1958,0
+Philippines,1958,0
+Other Asia,1958,0
+Australasia,1958,2344
+United States,1958,10846
+West Indies,1958,1192
+All other countries,1958,3967
+Africa,1958,0
+Other North America,1958,0
+South America,1958,0
+Great Britain,1959,19037
+France,1959,2153
+Germany,1959,10423
+Netherlands,1959,5243
+Greece,1959,4867
+Italy,1959,25655
+Portugal,1959,4080
+Other Europe,1959,12842
+Poland,1959,0
+India,1959,0
+Hong Kong,1959,0
+Vietnam,1959,0
+Philippines,1959,0
+Other Asia,1959,0
+Australasia,1959,1512
+United States,1959,11338
+West Indies,1959,1196
+All other countries,1959,2974
+Africa,1959,0
+Other North America,1959,0
+South America,1959,0
+Great Britain,1960,20384
+France,1960,2944
+Germany,1960,10774
+Netherlands,1960,5429
+Greece,1960,4856
+Italy,1960,20681
+Portugal,1960,5023
+Other Europe,1960,12615
+Poland,1960,0
+India,1960,0
+Hong Kong,1960,0
+Vietnam,1960,0
+Philippines,1960,0
+Other Asia,1960,0
+Australasia,1960,1657
+United States,1960,11247
+West Indies,1960,1168
+All other countries,1960,3115
+Africa,1960,0
+Other North America,1960,0
+South America,1960,0
+Great Britain,1961,12285
+France,1961,2330
+Germany,1961,6231
+Netherlands,1961,1787
+Greece,1961,3766
+Italy,1961,14161
+Portugal,1961,2762
+Other Europe,1961,8615
+Poland,1961,0
+India,1961,0
+Hong Kong,1961,0
+Vietnam,1961,0
+Philippines,1961,0
+Other Asia,1961,0
+Australasia,1961,1432
+United States,1961,11516
+West Indies,1961,1126
+All other countries,1961,2791
+Africa,1961,0
+Other North America,1961,0
+South America,1961,0
+Great Britain,1962,16055
+France,1962,2674
+Germany,1962,5548
+Netherlands,1962,1555
+Greece,1962,3741
+Italy,1962,13641
+Portugal,1962,2928
+Other Europe,1962,7508
+Poland,1962,0
+India,1962,0
+Hong Kong,1962,0
+Vietnam,1962,0
+Philippines,1962,0
+Other Asia,1962,0
+Australasia,1962,1384
+United States,1962,11643
+West Indies,1962,1586
+All other countries,1962,3590
+Africa,1962,0
+Other North America,1962,0
+South America,1962,0
+Great Britain,1963,25193
+France,1963,3569
+Germany,1963,6744
+Netherlands,1963,1728
+Greece,1963,4759
+Italy,1963,14427
+Portugal,1963,4000
+Other Europe,1963,8476
+Poland,1963,0
+India,1963,0
+Hong Kong,1963,0
+Vietnam,1963,0
+Philippines,1963,0
+Other Asia,1963,0
+Australasia,1963,1692
+United States,1963,11736
+West Indies,1963,2397
+All other countries,1963,4518
+Africa,1963,0
+Other North America,1963,0
+South America,1963,0
+Great Britain,1964,29959
+France,1964,4542
+Germany,1964,5992
+Netherlands,1964,2029
+Greece,1964,4391
+Italy,1964,19297
+Portugal,1964,5309
+Other Europe,1964,10874
+Poland,1964,0
+India,1964,0
+Hong Kong,1964,0
+Vietnam,1964,0
+Philippines,1964,0
+Other Asia,1964,0
+Australasia,1964,2305
+United States,1964,12565
+West Indies,1964,2199
+All other countries,1964,6618
+Africa,1964,0
+Other North America,1964,0
+South America,1964,0
+Great Britain,1965,40718
+France,1965,5225
+Germany,1965,8927
+Netherlands,1965,2619
+Greece,1965,5642
+Italy,1965,26398
+Portugal,1965,5734
+Other Europe,1965,12553
+Poland,1965,0
+India,1965,0
+Hong Kong,1965,0
+Vietnam,1965,0
+Philippines,1965,0
+Other Asia,1965,0
+Australasia,1965,2711
+United States,1965,15143
+West Indies,1965,3095
+All other countries,1965,6309
+Africa,1965,0
+Other North America,1965,0
+South America,1965,0
+Great Britain,1966,65065
+France,1966,7872
+Germany,1966,9263
+Netherlands,1966,3749
+Greece,1966,7174
+Italy,1966,31625
+Portugal,1966,7930
+Other Europe,1966,15240
+Poland,1966,0
+India,1966,0
+Hong Kong,1966,0
+Vietnam,1966,0
+Philippines,1966,0
+Other Asia,1966,0
+Australasia,1966,4059
+United States,1966,17514
+West Indies,1966,3935
+All other countries,1966,7079
+Africa,1966,0
+Other North America,1966,0
+South America,1966,0
+Great Britain,1967,64601
+France,1967,10122
+Germany,1967,11779
+Netherlands,1967,4401
+Greece,1967,10650
+Italy,1967,30055
+Portugal,1967,9500
+Other Europe,1967,18383
+Poland,1967,0
+India,1967,0
+Hong Kong,1967,0
+Vietnam,1967,0
+Philippines,1967,0
+Other Asia,1967,0
+Australasia,1967,6179
+United States,1967,19038
+West Indies,1967,8403
+All other countries,1967,8518
+Africa,1967,0
+Other North America,1967,0
+South America,1967,0
+Great Britain,1968,39434
+France,1968,8184
+Germany,1968,8966
+Netherlands,1968,3264
+Greece,1968,7739
+Italy,1968,19774
+Portugal,1968,7738
+Other Europe,1968,25213
+Poland,1968,0
+India,1968,0
+Hong Kong,1968,0
+Vietnam,1968,0
+Philippines,1968,0
+Other Asia,1968,0
+Australasia,1968,4818
+United States,1968,20422
+West Indies,1968,7623
+All other countries,1968,8723
+Africa,1968,0
+Other North America,1968,0
+South America,1968,0
+Great Britain,1969,33212
+France,1969,5549
+Germany,1969,5880
+Netherlands,1969,2494
+Greece,1969,6937
+Italy,1969,10383
+Portugal,1969,7182
+Other Europe,1969,16339
+Poland,1969,0
+India,1969,0
+Hong Kong,1969,0
+Vietnam,1969,0
+Philippines,1969,0
+Other Asia,1969,0
+Australasia,1969,4414
+United States,1969,22785
+West Indies,1969,13093
+All other countries,1969,9557
+Africa,1969,0
+Other North America,1969,0
+South America,1969,0
+Great Britain,1970,27620
+France,1970,4410
+Germany,1970,4193
+Netherlands,1970,1916
+Greece,1970,6327
+Italy,1970,8533
+Portugal,1970,7902
+Other Europe,1970,14427
+Poland,1970,0
+India,1970,0
+Hong Kong,1970,0
+Vietnam,1970,0
+Philippines,1970,0
+Other Asia,1970,0
+Australasia,1970,4388
+United States,1970,24424
+West Indies,1970,12456
+All other countries,1970,9666
+Africa,1970,0
+Other North America,1970,0
+South America,1970,0
+Great Britain,1971,16281
+France,1971,2966
+Germany,1971,2275
+Netherlands,1971,1301
+Greece,1971,4769
+Italy,1971,5790
+Portugal,1971,9157
+Other Europe,1971,9294
+Poland,1971,0
+India,1971,0
+Hong Kong,1971,0
+Vietnam,1971,0
+Philippines,1971,0
+Other Asia,1971,0
+Australasia,1971,2906
+United States,1971,24366
+West Indies,1971,10843
+All other countries,1971,9583
+Africa,1971,0
+Other North America,1971,0
+South America,1971,0
+Great Britain,1972,19133
+France,1972,2742
+Germany,1972,2025
+Netherlands,1972,1471
+Greece,1972,4016
+Italy,1972,4608
+Portugal,1972,8737
+Other Europe,1972,8561
+Poland,1972,0
+India,1972,0
+Hong Kong,1972,0
+Vietnam,1972,0
+Philippines,1972,0
+Other Asia,1972,0
+Australasia,1972,2148
+United States,1972,22618
+West Indies,1972,8234
+All other countries,1972,14388
+Africa,1972,0
+Other North America,1972,0
+South America,1972,0
+Great Britain,1973,28102
+France,1973,3586
+Germany,1973,2564
+Netherlands,1973,1898
+Greece,1973,5833
+Italy,1973,5468
+Portugal,1973,13483
+Other Europe,1973,10949
+Poland,1973,0
+India,1973,0
+Hong Kong,1973,0
+Vietnam,1973,0
+Philippines,1973,0
+Other Asia,1973,0
+Australasia,1973,2671
+United States,1973,25242
+West Indies,1973,19281
+All other countries,1973,21930
+Africa,1973,0
+Other North America,1973,0
+South America,1973,0
+Great Britain,1974,39748
+France,1974,4232
+Germany,1974,3619
+Netherlands,1974,2103
+Greece,1974,5632
+Italy,1974,5226
+Portugal,1974,16333
+Other Europe,1974,11801
+Poland,1974,0
+India,1974,0
+Hong Kong,1974,0
+Vietnam,1974,0
+Philippines,1974,0
+Other Asia,1974,0
+Australasia,1974,2594
+United States,1974,26541
+West Indies,1974,23670
+All other countries,1974,26400
+Africa,1974,0
+Other North America,1974,0
+South America,1974,0
+Great Britain,1975,36076
+France,1975,3891
+Germany,1975,3469
+Netherlands,1975,1448
+Greece,1975,4062
+Italy,1975,5078
+Portugal,1975,8547
+Other Europe,1975,10327
+Poland,1975,0
+India,1975,0
+Hong Kong,1975,0
+Vietnam,1975,0
+Philippines,1975,0
+Other Asia,1975,0
+Australasia,1975,2174
+United States,1975,20155
+West Indies,1975,17800
+All other countries,1975,27472
+Africa,1975,0
+Other North America,1975,0
+South America,1975,0
+Great Britain,1976,22190
+France,1976,3250
+Germany,1976,2680
+Netherlands,1976,1365
+Greece,1976,2495
+Italy,1976,4548
+Portugal,1976,5412
+Other Europe,1976,8090
+Poland,1976,0
+India,1976,0
+Hong Kong,1976,0
+Vietnam,1976,0
+Philippines,1976,0
+Other Asia,1976,0
+Australasia,1976,1892
+United States,1976,17384
+West Indies,1976,14723
+All other countries,1976,21311
+Africa,1976,0
+Other North America,1976,0
+South America,1976,0
+Great Britain,1977,18536
+France,1977,2761
+Germany,1977,2258
+Netherlands,1977,1250
+Greece,1977,1962
+Italy,1977,3410
+Portugal,1977,3575
+Other Europe,1977,6964
+Poland,1977,0
+India,1977,0
+Hong Kong,1977,0
+Vietnam,1977,0
+Philippines,1977,0
+Other Asia,1977,0
+Australasia,1977,1547
+United States,1977,12918
+West Indies,1977,11789
+All other countries,1977,16564
+Africa,1977,0
+Other North America,1977,0
+South America,1977,0
+Great Britain,1978,12251
+France,1978,1754
+Germany,1978,1471
+Netherlands,1978,1237
+Greece,1978,1477
+Italy,1978,2977
+Portugal,1978,1897
+Other Europe,1978,6998
+Poland,1978,0
+India,1978,0
+Hong Kong,1978,0
+Vietnam,1978,0
+Philippines,1978,0
+Other Asia,1978,0
+Australasia,1978,1237
+United States,1978,9949
+West Indies,1978,8222
+All other countries,1978,12814
+Africa,1978,0
+Other North America,1978,0
+South America,1978,0
+Great Britain,1979,14553
+France,1979,1953
+Germany,1979,1462
+Netherlands,1979,1581
+Greece,1979,1232
+Italy,1979,2226
+Portugal,1979,4034
+Other Europe,1979,8771
+Poland,1979,0
+India,1979,0
+Hong Kong,1979,0
+Vietnam,1979,0
+Philippines,1979,0
+Other Asia,1979,0
+Australasia,1979,1443
+United States,1979,9948
+West Indies,1979,6621
+All other countries,1979,11400
+Africa,1979,0
+Other North America,1979,0
+South America,1979,0
+Great Britain,1980,18976
+France,1980,1905
+Germany,1980,1648
+Netherlands,1980,1872
+Greece,1980,1096
+Italy,1980,1744
+Portugal,1980,4237
+Other Europe,1980,9800
+Poland,1980,0
+India,1980,0
+Hong Kong,1980,0
+Vietnam,1980,0
+Philippines,1980,0
+Other Asia,1980,0
+Australasia,1980,1559
+United States,1980,9953
+West Indies,1980,7273
+All other countries,1980,11642
+Africa,1980,0
+Other North America,1980,0
+South America,1980,0
+Great Britain,1981,21994
+France,1981,2092
+Germany,1981,2191
+Netherlands,1981,1800
+Greece,1981,958
+Italy,1981,2047
+Portugal,1981,1890
+Other Europe,1981,13393
+Poland,1981,0
+India,1981,0
+Hong Kong,1981,0
+Vietnam,1981,0
+Philippines,1981,0
+Other Asia,1981,0
+Australasia,1981,1319
+United States,1981,10573
+West Indies,1981,8579
+All other countries,1981,13063
+Africa,1981,0
+Other North America,1981,0
+South America,1981,0
+Great Britain,1982,17101
+France,1982,2397
+Germany,1982,4432
+Netherlands,1982,1830
+Greece,1982,885
+Italy,1982,1508
+Portugal,1982,1390
+Other Europe,1982,8392
+Poland,1982,8291
+India,1982,7788
+Hong Kong,1982,6552
+Vietnam,1982,5945
+Philippines,1982,5070
+Other Asia,1982,16396
+Australasia,1982,938
+United States,1982,9375
+West Indies,1982,8688
+All other countries,1982,1300
+Africa,1982,4520
+Other North America,1982,1654
+South America,1982,6883
+Great Britain,1983,6051
+France,1983,1656
+Germany,1983,2524
+Netherlands,1983,673
+Greece,1983,601
+Italy,1983,828
+Portugal,1983,821
+Other Europe,1983,6108
+Poland,1983,5106
+India,1983,7060
+Hong Kong,1983,6728
+Vietnam,1983,6467
+Philippines,1983,4464
+Other Asia,1983,12281
+Australasia,1983,478
+United States,1983,7399
+West Indies,1983,7235
+All other countries,1983,736
+Africa,1983,3669
+Other North America,1983,3664
+South America,1983,4829
+Great Britain,1984,5416
+France,1984,1386
+Germany,1984,1734
+Netherlands,1984,547
+Greece,1984,557
+Italy,1984,843
+Portugal,1984,859
+Other Europe,1984,5127
+Poland,1984,4518
+India,1984,5523
+Hong Kong,1984,7727
+Vietnam,1984,10997
+Philippines,1984,3764
+Other Asia,1984,14081
+Australasia,1984,538
+United States,1984,6949
+West Indies,1984,5652
+All other countries,1984,618
+Africa,1984,3566
+Other North America,1984,4095
+South America,1984,4102
+Great Britain,1985,4721
+France,1985,1401
+Germany,1985,1578
+Netherlands,1985,466
+Greece,1985,551
+Italy,1985,650
+Portugal,1985,910
+Other Europe,1985,4969
+Poland,1985,3618
+India,1985,4029
+Hong Kong,1985,7383
+Vietnam,1985,10409
+Philippines,1985,3076
+Other Asia,1985,13715
+Australasia,1985,506
+United States,1985,6672
+West Indies,1985,6134
+All other countries,1985,622
+Africa,1985,3546
+Other North America,1985,5018
+South America,1985,4358
+Great Britain,1986,5528
+France,1986,1612
+Germany,1986,1405
+Netherlands,1986,524
+Greece,1986,552
+Italy,1986,716
+Portugal,1986,1973
+Other Europe,1986,5188
+Poland,1986,5236
+India,1986,6948
+Hong Kong,1986,5901
+Vietnam,1986,6626
+Philippines,1986,4108
+Other Asia,1986,18067
+Australasia,1986,503
+United States,1986,7283
+West Indies,1986,8886
+All other countries,1986,725
+Africa,1986,4776
+Other North America,1986,6084
+South America,1986,6699
+Great Britain,1987,9531
+France,1987,2290
+Germany,1987,1903
+Netherlands,1987,575
+Greece,1987,770
+Italy,1987,1030
+Portugal,1987,5974
+Other Europe,1987,8437
+Poland,1987,7034
+India,1987,9688
+Hong Kong,1987,16162
+Vietnam,1987,5665
+Philippines,1987,7338
+Other Asia,1987,28452
+Australasia,1987,753
+United States,1987,7963
+West Indies,1987,11223
+All other countries,1987,1075
+Africa,1987,8495
+Other North America,1987,6871
+South America,1987,10798
+Great Britain,1988,10418
+France,1988,2582
+Germany,1988,1691
+Netherlands,1988,820
+Greece,1988,579
+Italy,1988,858
+Portugal,1988,4147
+Other Europe,1988,10286
+Poland,1988,9208
+India,1988,10383
+Hong Kong,1988,23225
+Vietnam,1988,6180
+Philippines,1988,8289
+Other Asia,1988,32860
+Australasia,1988,744
+United States,1988,6521
+West Indies,1988,9415
+All other countries,1988,1074
+Africa,1988,9357
+Other North America,1988,5657
+South America,1988,7237
+Great Britain,1989,9735
+France,1989,2875
+Germany,1989,2021
+Netherlands,1989,822
+Greece,1989,769
+Italy,1989,1034
+Portugal,1989,5400
+Other Europe,1989,13373
+Poland,1989,15947
+India,1989,8797
+Hong Kong,1989,19855
+Vietnam,1989,9402
+Philippines,1989,11364
+Other Asia,1989,43608
+Australasia,1989,892
+United States,1989,6913
+West Indies,1989,10881
+All other countries,1989,1144
+Africa,1989,12169
+Other North America,1989,5856
+South America,1989,8663
+Great Britain,1990,9092
+France,1990,2615
+Germany,1990,1636
+Netherlands,1990,627
+Greece,1990,539
+Italy,1990,925
+Portugal,1990,5652
+Other Europe,1990,14645
+Poland,1990,16731
+India,1990,10734
+Hong Kong,1990,29554
+Vietnam,1990,9167
+Philippines,1990,12155
+Other Asia,1990,51290
+Australasia,1990,999
+United States,1990,6147
+West Indies,1990,11804
+All other countries,1990,1674
+Africa,1990,13580
+Other North America,1990,7876
+South America,1990,8986
+Great Britain,1991,8351
+France,1991,3235
+Germany,1991,1585
+Netherlands,1991,570
+Greece,1991,571
+Italy,1991,703
+Portugal,1991,5348
+Other Europe,1991,12241
+Poland,1991,15877
+India,1991,12953
+Hong Kong,1991,22527
+Vietnam,1991,9028
+Philippines,1991,12454
+Other Asia,1991,64037
+Australasia,1991,962
+United States,1991,6664
+West Indies,1991,13044
+All other countries,1991,2206
+Africa,1991,16224
+Other North America,1991,13524
+South America,1991,10674
+Great Britain,1992,7793
+France,1992,3767
+Germany,1992,1487
+Netherlands,1992,686
+Greece,1992,494
+Italy,1992,637
+Portugal,1992,2768
+Other Europe,1992,15622
+Poland,1992,11972
+India,1992,12777
+Hong Kong,1992,39230
+Vietnam,1992,7740
+Philippines,1992,13376
+Other Asia,1992,67265
+Australasia,1992,1200
+United States,1992,7596
+West Indies,1992,15069
+All other countries,1992,2488
+Africa,1992,19792
+Other North America,1992,12626
+South America,1992,10471
+Great Britain,1993,7695
+France,1993,3994
+Germany,1993,1895
+Netherlands,1993,671
+Greece,1993,471
+Italy,1993,698
+Portugal,1993,1575
+Other Europe,1993,22875
+Poland,1993,6904
+India,1993,20525
+Hong Kong,1993,36714
+Vietnam,1993,8331
+Philippines,1993,19848
+Other Asia,1993,62427
+Australasia,1993,1324
+United States,1993,8040
+West Indies,1993,16627
+All other countries,1993,1770
+Africa,1993,16984
+Other North America,1993,7766
+South America,1993,9616
+Great Britain,1994,6338
+France,1994,3046
+Germany,1994,1975
+Netherlands,1994,593
+Greece,1994,321
+Italy,1994,628
+Portugal,1994,802
+Other Europe,1994,21592
+Poland,1994,3432
+India,1994,17263
+Hong Kong,1994,44271
+Vietnam,1994,6244
+Philippines,1994,19142
+Other Asia,1994,54994
+Australasia,1994,1112
+United States,1994,6248
+West Indies,1994,10006
+All other countries,1994,1198
+Africa,1994,13737
+Other North America,1994,3513
+South America,1994,7936
+Great Britain,1995,6393
+France,1995,3890
+Germany,1995,2363
+Netherlands,1995,644
+Greece,1995,325
+Italy,1995,635
+Portugal,1995,842
+Other Europe,1995,23901
+Poland,1995,2306
+India,1995,16263
+Hong Kong,1995,31859
+Vietnam,1995,3944
+Philippines,1995,15190
+Other Asia,1995,62178
+Australasia,1995,1055
+United States,1995,5173
+West Indies,1995,10067
+All other countries,1995,834
+Africa,1995,14624
+Other North America,1995,2840
+South America,1995,7545
+Great Britain,1996,5837
+France,1996,3363
+Germany,1996,2538
+Netherlands,1996,1052
+Greece,1996,318
+Italy,1996,685
+Portugal,1996,727
+Other Europe,1996,23433
+Poland,1996,2063
+India,1996,21301
+Hong Kong,1996,30006
+Vietnam,1996,2490
+Philippines,1996,13148
+Other Asia,1996,77452
+Australasia,1996,1228
+United States,1996,5846
+West Indies,1996,9334
+All other countries,1996,837
+Africa,1996,14878
+Other North America,1996,3414
+South America,1996,6114
+Great Britain,1997,4846
+France,1997,2848
+Germany,1997,2104
+Netherlands,1997,723
+Greece,1997,296
+Italy,1997,532
+Portugal,1997,711
+Other Europe,1997,24895
+Poland,1997,1708
+India,1997,19592
+Hong Kong,1997,22038
+Vietnam,1997,1787
+Philippines,1997,10880
+Other Asia,1997,84023
+Australasia,1997,1404
+United States,1997,5036
+West Indies,1997,8235
+All other countries,1997,658
+Africa,1997,14524
+Other North America,1997,3506
+South America,1997,5689
+Great Britain,1998,4047
+France,1998,3870
+Germany,1998,2064
+Netherlands,1998,675
+Greece,1998,225
+Italy,1998,429
+Portugal,1998,462
+Other Europe,1998,25298
+Poland,1998,1444
+India,1998,15387
+Hong Kong,1998,5718
+Vietnam,1998,1631
+Philippines,1998,8187
+Other Asia,1998,70566
+Australasia,1998,1060
+United States,1998,4800
+West Indies,1998,6357
+All other countries,1998,424
+Africa,1998,13856
+Other North America,1998,2706
+South America,1998,4971
+Great Britain,1999,4634
+France,1999,3923
+Germany,1999,2896
+Netherlands,1999,911
+Greece,1999,248
+Italy,1999,512
+Portugal,1999,348
+Other Europe,1999,24207
+Poland,1999,1298
+India,1999,17463
+Hong Kong,1999,1538
+Vietnam,1999,1397
+Philippines,1999,9205
+Other Asia,1999,83478
+Australasia,1999,849
+United States,1999,5547
+West Indies,1999,6760
+All other countries,1999,384
+Africa,1999,15842
+Other North America,1999,2913
+South America,1999,5610
+Great Britain,2000,4825
+France,2000,4349
+Germany,2000,2371
+Netherlands,2000,879
+Greece,2000,361
+Italy,2000,481
+Portugal,2000,393
+Other Europe,2000,27967
+Poland,2000,1333
+India,2000,26122
+Hong Kong,2000,960
+Vietnam,2000,1801
+Philippines,2000,10128
+Other Asia,2000,101167
+Australasia,2000,931
+United States,2000,5833
+West Indies,2000,7158
+All other countries,2000,485
+Africa,2000,20040
+Other North America,2000,3061
+South America,2000,6782
+Great Britain,2001,5575
+France,2001,4428
+Germany,2001,1846
+Netherlands,2001,815
+Greece,2001,346
+Italy,2001,527
+Portugal,2001,481
+Other Europe,2001,28111
+Poland,2001,1168
+India,2001,27903
+Hong Kong,2001,690
+Vietnam,2001,2097
+Philippines,2001,12928
+Other Asia,2001,112091
+Australasia,2001,1216
+United States,2001,5909
+West Indies,2001,8564
+All other countries,2001,856
+Africa,2001,23438
+Other North America,2001,3139
+South America,2001,8510
+Great Britain,2002,4929
+France,2002,3962
+Germany,2002,1624
+Netherlands,2002,686
+Greece,2002,211
+Italy,2002,446
+Portugal,2002,319
+Other Europe,2002,25574
+Poland,2002,1117
+India,2002,28838
+Hong Kong,2002,581
+Vietnam,2002,2282
+Philippines,2002,11011
+Other Asia,2002,98633
+Australasia,2002,1199
+United States,2002,5294
+West Indies,2002,7598
+All other countries,2002,776
+Africa,2002,22095
+Other North America,2002,3049
+South America,2002,8825
+Great Britain,2003,5459
+France,2003,4127
+Germany,2003,2098
+Netherlands,2003,662
+Greece,2003,179
+Italy,2003,401
+Portugal,2003,283
+Other Europe,2003,23281
+Poland,2003,1079
+India,2003,24594
+Hong Kong,2003,496
+Vietnam,2003,1686
+Philippines,2003,11988
+Other Asia,2003,94083
+Australasia,2003,1365
+United States,2003,6013
+West Indies,2003,6539
+All other countries,2003,693
+Africa,2003,22513
+Other North America,2003,2740
+South America,2003,11070
+Great Britain,2004,6346
+France,2004,5028
+Germany,2004,2387
+Netherlands,2004,826
+Greece,2004,210
+Italy,2004,432
+Portugal,2004,323
+Other Europe,2004,25021
+Poland,2004,1329
+India,2004,25574
+Hong Kong,2004,544
+Vietnam,2004,1803
+Philippines,2004,13303
+Other Asia,2004,94433
+Australasia,2004,1404
+United States,2004,7507
+West Indies,2004,6617
+All other countries,2004,586
+Africa,2004,26509
+Other North America,2004,3350
+South America,2004,12292
+Great Britain,2005,6108
+France,2005,5430
+Germany,2005,2635
+Netherlands,2005,929
+Greece,2005,145
+Italy,2005,344
+Portugal,2005,291
+Other Europe,2005,23818
+Poland,2005,1206
+India,2005,33147
+Hong Kong,2005,448
+Vietnam,2005,1821
+Philippines,2005,17525
+Other Asia,2005,107026
+Australasia,2005,1507
+United States,2005,9263
+West Indies,2005,6905
+All other countries,2005,417
+Africa,2005,25535
+Other North America,2005,4020
+South America,2005,13720
+Great Britain,2006,6856
+France,2006,4915
+Germany,2006,3030
+Netherlands,2006,892
+Greece,2006,138
+Italy,2006,421
+Portugal,2006,405
+Other Europe,2006,20097
+Poland,2006,1191
+India,2006,30755
+Hong Kong,2006,459
+Vietnam,2006,3122
+Philippines,2006,17718
+Other Asia,2006,97473
+Australasia,2006,1348
+United States,2006,10943
+West Indies,2006,6740
+All other countries,2006,401
+Africa,2006,27176
+Other North America,2006,4143
+South America,2006,13423
+Great Britain,2007,8485
+France,2007,5528
+Germany,2007,2555
+Netherlands,2007,630
+Greece,2007,189
+Italy,2007,425
+Portugal,2007,399
+Other Europe,2007,19636
+Poland,2007,1158
+India,2007,26060
+Hong Kong,2007,368
+Vietnam,2007,2549
+Philippines,2007,19072
+Other Asia,2007,85339
+Australasia,2007,1495
+United States,2007,10453
+West Indies,2007,7957
+All other countries,2007,435
+Africa,2007,26078
+Other North America,2007,5044
+South America,2007,12899
+Great Britain,2008,9750
+France,2008,6394
+Germany,2008,4063
+Netherlands,2008,841
+Greece,2008,248
+Italy,2008,547
+Portugal,2008,653
+Other Europe,2008,16689
+Poland,2008,1183
+India,2008,24584
+Hong Kong,2008,351
+Vietnam,2008,1743
+Philippines,2008,23760
+Other Asia,2008,90523
+Australasia,2008,1639
+United States,2008,11230
+West Indies,2008,9070
+All other countries,2008,421
+Africa,2008,26096
+Other North America,2008,4896
+South America,2008,12566
+Great Britain,2009,10089
+France,2009,7314
+Germany,2009,4090
+Netherlands,2009,797
+Greece,2009,205
+Italy,2009,583
+Portugal,2009,611
+Other Europe,2009,17215
+Poland,2009,984
+India,2009,26173
+Hong Kong,2009,313
+Vietnam,2009,2145
+Philippines,2009,27335
+Other Asia,2009,85230
+Australasia,2009,1839
+United States,2009,9744
+West Indies,2009,8969
+All other countries,2009,345
+Africa,2009,30333
+Other North America,2009,4852
+South America,2009,13011
+Great Britain,2010,10263
+France,2010,6949
+Germany,2010,3197
+Netherlands,2010,803
+Greece,2010,236
+Italy,2010,631
+Portugal,2010,609
+Other Europe,2010,17443
+Poland,2010,727
+India,2010,30311
+Hong Kong,2010,223
+Vietnam,2010,1900
+Philippines,2010,36651
+Other Asia,2010,95323
+Australasia,2010,1754
+United States,2010,9263
+West Indies,2010,10486
+All other countries,2010,454
+Africa,2010,35527
+Other North America,2010,5702
+South America,2010,12230
+Great Britain,2011,7227
+France,2011,5878
+Germany,2011,2258
+Netherlands,2011,629
+Greece,2011,163
+Italy,2011,573
+Portugal,2011,506
+Other Europe,2011,14417
+Poland,2011,659
+India,2011,25016
+Hong Kong,2011,268
+Vietnam,2011,1686
+Philippines,2011,35063
+Other Asia,2011,84918
+Australasia,2011,1459
+United States,2011,8847
+West Indies,2011,11841
+All other countries,2011,370
+Africa,2011,31303
+Other North America,2011,5520
+South America,2011,10145
+Great Britain,2012,7277
+France,2012,8157
+Germany,2012,1894
+Netherlands,2012,530
+Greece,2012,211
+Italy,2012,613
+Portugal,2012,524
+Other Europe,2012,15414
+Poland,2012,704
+India,2012,29010
+Hong Kong,2012,460
+Vietnam,2012,1707
+Philippines,2012,32830
+Other Asia,2012,85686
+Australasia,2012,1753
+United States,2012,9436
+West Indies,2012,11856
+All other countries,2012,394
+Africa,2012,34361
+Other North America,2012,5829
+South America,2012,9246
