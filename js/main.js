@@ -89,7 +89,7 @@ function buildGraph(fullData) {
         .attr("opacity", 1)
         .on("mousemove", function (d, i) {
             svg.selectAll(".layer")
-                .attr("opacity", function (j) {
+                .attr("opacity", function (d, j) {
                     return j !== i ? 0.6 : 1;
                 });
 
