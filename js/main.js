@@ -51,10 +51,12 @@ function buildGraph(fullData) {
 
   var series = stack(data);
 
+
   var svg = d3.select("svg"),
       margin = {top: 30, right: 100, bottom: 30, left: 100}
       width = +svg.attr("width") - margin.left - margin.right,
       height = +svg.attr("height") - margin.top - margin.bottom;
+  console.log(width, height);
 
   // Range and domain, min/max
   var x = d3.scaleTime()
@@ -155,7 +157,7 @@ function buildGraph(fullData) {
 
   var yAxis = d3.axisLeft()
     .scale(y)
-    .ticks(10);
+    .ticks(0);
 
   // Add the X Axis
   svg.append("g")
