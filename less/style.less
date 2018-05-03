@@ -1,10 +1,11 @@
 // Base Styles
 @Libre: 'Libre Baskerville', serif;
 @Open: 'Open Sans', sans-serif;
+@fontcolor: #2F4F4F;
 
 body {
 	background-color:#eeeeee;
-  font-family: @Open;
+    font-family: @Open;
 }
 #header {
     background-color:black;
@@ -17,12 +18,18 @@ body {
     padding-top: 40px;
     background-color:#eeeeee;
     text-align: center;
+    color: @fontcolor;
 }
 .axis path,
 .axis line {
     stroke: black;
     stroke-width: 2px;
     shape-rendering: crispEdges;
+}
+
+text {
+    font-family: @Open;
+    fill: @fontcolor;
 }
 
 div.tooltip {
@@ -34,6 +41,7 @@ div.tooltip {
     background: lightgray;
     border: 2px solid black;
     border-radius: 5px;
+    color: @fontcolor;
     .country {
       font-family: @Libre;
       font-size: 20px;

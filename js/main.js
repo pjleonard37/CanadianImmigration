@@ -1,3 +1,4 @@
+// Data file
 var csv = "ModifiedData.csv";
 
 // Tooltip
@@ -21,14 +22,14 @@ function buildGraph(fullData) {
         }
     });
 
+    // Stack
     var stack = d3.stack()
         .keys(countries)
         .order(d3.stackOrderNone)
         .offset(d3.stackOffsetWiggle);
-
     var series = stack(data);
 
-
+    // Build and structure SVG
     var svg = d3.select("svg");
     var margin = {top: 30, right: 100, bottom: 30, left: 100};
     var width = +svg.attr("width") - margin.left - margin.right;
@@ -46,7 +47,6 @@ function buildGraph(fullData) {
         });
     }
 
-    // Range and domain, min/max
     var x = d3.scaleTime()
         .domain(d3.extent(data, function (d) {
             return d.Year;
@@ -79,7 +79,7 @@ function buildGraph(fullData) {
             return colorWheel[d.index];
         });
 
-    // Tooltips, lines, and other chart ornaments
+    // Tooltips, line, and other chart ornaments
     var line = svg.append("line")
         .style("stroke-width", 15)
         .style("stroke", "grey")
@@ -169,7 +169,7 @@ function buildGraph(fullData) {
         .attr("heigth", 100)
         .attr("width", 100);
 
-    // Reverse for legend
+    // Reverse countries for legend
     var reverseSeries = series.reverse();
     legend.selectAll("g").data(reverseSeries)
         .enter()
@@ -189,7 +189,6 @@ function buildGraph(fullData) {
                 .attr("y", (i * 20) + 13)
                 .attr("width", 10)
                 .attr("height", 10)
-                .style("fill", "black")
                 .text(d.key);
         });
 }
@@ -218,5 +217,6 @@ d3.csv(csv, function (error, d) {
         return myObject;
     });
 
+    // Build the graph
     buildGraph(fullData);
 });
